@@ -2,6 +2,10 @@
 name:Thummalapally Neha
 company:gwing software technologies pvt ltd
 id:GW24FD0801A1349
+output:
+Coin Toss Simulator
+Toss the Coin
+Click the button to toss the coin.
 steps:
 1. Create the HTML file
 Create a file named index.html
